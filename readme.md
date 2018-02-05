@@ -10,7 +10,7 @@ The code actually works and the request is requested over HTTPS but the warning 
 
 
 
-Mixed Content: The page at https://oferxet.github.io/fetchpoc/test.html was loaded over HTTPS, but requested an insecure image http://https://oferxet.github.io/fetchpoc/image.jpg. This content should also be served over HTTPS.
+Mixed Content: The page at https://ofercet.github.io/fetchpoc/test.html was loaded over HTTPS, but requested an insecure image http://https://ofercet.github.io/fetchpoc/image.jpg. This content should also be served over HTTPS.
 
 
-for example a correct page: https://oferxet.github.io/fetchpoc/secure.html
+for example a correct page: https://ofercet.github.io/fetchpoc/secure.html
